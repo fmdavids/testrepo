@@ -1,1 +1,3 @@
-I am learning how to share my code and work with others on Git
+I am learning how to share my code and work with others on Git. 
+I have cloned and I am edditing the cloned repository now
+More to come
